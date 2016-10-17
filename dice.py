@@ -1,6 +1,7 @@
 # program name: dice.py
 # author: johnny
 # date: 10/8/16
+# last updated: 10/17
 
 import random
 
